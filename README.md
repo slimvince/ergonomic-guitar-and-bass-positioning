@@ -7,6 +7,12 @@
 **Purpose:** Public disclosure and defensive publication of an ergonomic design concept for electric bass guitars, electric guitars, and related fretted string instruments.
 
 ---
+## Archived Public Disclosure
+
+This project is archived as a permanent public disclosure on Zenodo:
+
+https://doi.org/10.5281/zenodo.21346778
+---
 
 ## Abstract
 
