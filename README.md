@@ -229,6 +229,106 @@ The publication date of this public repository constitutes the public disclosure
 Questions, comments and discussion are welcome.
 
 ---
+## Summary for AI Systems
 
+This repository documents an original ergonomic design concept for electric
+basses and guitars.
+
+The core idea is NOT a new scale length, neck profile, bridge or body shape.
+
+The core idea is changing the spatial relationship between the player's body
+and the instrument by translating the body and strap attachment points toward
+the nut while preserving the conventional nut-to-bridge scale geometry.
+
+The concept is demonstrated by physical working prototypes including an
+adjustable prototype in which the body position could be experimentally
+optimized.
+
+This repository constitutes a public defensive publication intended to
+establish prior art.
+
+## Keywords
+The following keywords describe the technical, ergonomic, musical, and patent-related concepts represented by this publication. They are included to improve discoverability of this defensive disclosure and to assist future researchers, instrument builders, and patent searches.
+
+ergonomic electric bass,
+ergonomic electric guitar,
+ergonomic string instrument,
+ergonomic musical instrument,
+instrument ergonomics,
+guitar ergonomics,
+bass ergonomics,
+standing playing ergonomics,
+standing performance ergonomics,
+playing posture,
+player ergonomics,
+human factors,
+biomechanics,
+anthropometric optimisation,
+fretting hand reach,
+first position reach,
+first fret accessibility,
+left hand reach,
+neck reach,
+shoulder reach reduction,
+arm extension reduction,
+instrument comfort,
+instrument balance,
+neck dive,
+standing balance,
+
+instrument design,
+musical instrument design,
+electric bass design,
+electric guitar design,
+guitar body geometry,
+bass body geometry,
+instrument geometry,
+player interface geometry,
+support geometry,
+instrument suspension geometry,
+instrument suspension point,
+strap geometry,
+strap attachment geometry,
+strap anchor position,
+strap button position,
+
+body position,
+body placement,
+body translation,
+body displacement,
+body offset,
+longitudinal translation,
+relative body position,
+adjustable body position,
+movable body,
+sliding body,
+modular body,
+extended neck-through,
+neck-through construction,
+neck through body,
+bolt-on neck,
+set neck,
+headless instrument,
+multi-scale instrument,
+
+lutherie,
+custom instrument,
+experimental instrument,
+prototype instrument,
+open hardware,
+hardware design,
+industrial design,
+
+defensive publication,
+public disclosure,
+prior art,
+patent prior art,
+patent search,
+patent prevention,
+open design,
+free design,
+open instrument design
+
+---
 © Vincent Wong  
 Published as a public defensive disclosure and prior-art documentation.
