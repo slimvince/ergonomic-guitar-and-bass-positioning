@@ -128,7 +128,8 @@ The essential idea is changing the spatial relationship between:
 - the player's body,
 - the suspension system,
 - the instrument body,
-- and the playing geometry.
+- and the playing geometry,
+depending on players position (sitting/standing etc) and/or different player's needs
 
 Possible implementations include, but are not limited to:
 
