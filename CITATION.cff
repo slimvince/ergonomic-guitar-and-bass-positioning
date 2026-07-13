@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "Ergonomic Standing Geometry for Electric Bass and Guitar: A Defensive Publication"
+message: "If you use or refer to this work, please cite this repository."
+type: other
+authors:
+  - family-names: Wong
+    given-names: Vincent
+date-released: 2026-07-13
+version: "1.0"
+repository-code: "https://github.com/slimvince/ergonomic-guitar-and-bass-positioning"
+keywords:
+  - ergonomic electric bass
+  - ergonomic electric guitar
+  - instrument ergonomics
+  - standing playing ergonomics
+  - instrument geometry
+  - lutherie
+  - defensive publication
+  - prior art
+license: "CC-BY-SA-4.0"
