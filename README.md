@@ -104,6 +104,7 @@ The purpose of the adjustable prototype was to experimentally determine:
 - balance,
 - instrument suspension,
 - player comfort,
+- convenience of being able to adjust for different playing positions (like sitting or standing) - or for different player's requirements,
 - practical body position.
 
 This prototype demonstrated that the body position itself is an ergonomic design parameter rather than a fixed requirement.
