@@ -18,3 +18,6 @@ keywords:
   - defensive publication
   - prior art
 license: "CC-BY-SA-4.0"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.21346778"
